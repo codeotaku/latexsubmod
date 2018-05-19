@@ -1,0 +1,3 @@
+[submodule "latexsubmodule"]
+	path = latexsubmodule
+	url = git@github.com:codeotaku/latexsubmodule.git
